@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "zuufZ1Dqf9k=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mrseb\\Documents\\SoccerGame\\SoccerGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mrseb\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\mrseb\\.nuget\\packages\\sixlabors.imagesharp\\3.1.5\\sixlabors.imagesharp.3.1.5.nupkg.sha512",
+    "C:\\Users\\mrseb\\.nuget\\packages\\skiasharp\\2.88.8\\skiasharp.2.88.8.nupkg.sha512",
+    "C:\\Users\\mrseb\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.8\\skiasharp.nativeassets.macos.2.88.8.nupkg.sha512",
+    "C:\\Users\\mrseb\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.8\\skiasharp.nativeassets.win32.2.88.8.nupkg.sha512",
+    "C:\\Users\\mrseb\\.nuget\\packages\\system.drawing.common\\8.0.8\\system.drawing.common.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
